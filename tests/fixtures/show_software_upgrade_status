@@ -1,0 +1,22 @@
+
+Software Upgrade Information:
+
+Software Server IP             : 192.168.0.101
+Software Server Root Directory : /1830PSS32M/EC/
+Committed Release              : 1830PSSECX-11.0-1
+Working Release Directory      : 
+Working Release                : 1830PSSECX-11.0-1
+Active Release                 : 1830PSSECX-11.0-1
+
+Operation                      : Commit
+Operation Status               : Completed
+Percent Completion             : 100%
+Upgrade Path Available         : True
+
+Software Download Script (Timezone: Etc/UTC):
+
+
+Stage=0 Step=1      SH/SL:  1/1    CARDTYPE: EC                              
+ACTION: Audit node          Completed       100% complete
+RESULT: Success                                           2019/09/25 22:02:20
+

@@ -1,0 +1,5 @@
+pytest
+pytest-cov
+pytest-pylint
+pytest-mock
+sshim
